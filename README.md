@@ -30,3 +30,8 @@ function visit(node n)
     mark n with a permanent mark
     add n to head of L
 ```
+
+# Note
+
+This was implemented very quickly from the pseudocode above. As needed,
+I'll profile and refactor for performance.
